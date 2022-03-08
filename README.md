@@ -1,3 +1,5 @@
 # Project A
----
-Projecto Media Center Pessoal
+
+Projeto de Media Center Pessoal
+
+Ainda numa fase de estudo
